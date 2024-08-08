@@ -190,16 +190,6 @@ function init(){
     });
   });
   
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
   function boxAnimation() {
     var overlays = document.querySelectorAll(".overlay1");
     console.log(overlays);
